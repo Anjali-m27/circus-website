@@ -1,5 +1,5 @@
 # circus-website 
-## modified by Anjali
+## modified by 
 Welcome to HTML, CSS Learning By Waheed Khan. This training will leads you through the basics to advance of Hyper Text Markup Language(HTML).
 HTML is the building block for web pages. You will learn to use HTML to build your own beautiful and good looking  website.
 
